@@ -18,7 +18,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://github.com/Zaktabyte/SoftX-Theme/blob/00cc597cd8f45790b86a893a46e439cd5fdd23d5/2023_Root_of_Nightmares_Raid_PressKit_Raid_Compressed_009.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://img-cdn-us.gamespress.com/files/Bungie/2023/03/102132-23215be2/2023_Root_of_Nightmares_Raid_PressKit_Raid_Compressed_009.jpg?sv=2018-03-28&sr=b&sig=jJ%2FxyrKLfGpi9QY1I%2B9kdM4pRKy%2FGZ0XmgOoEzhj2hA%3D&se=2023-05-01T03%3A00%3A00Z&sp=r&rsct=application%2Foctet-strem&rscd=attachment&lightbox=y&ex=2023-05-01+03%3A00%3A00&sky=d79c50dc11b379ceb1e3998b867cea809f24119644b39b1c994479bddf49e6ec&w=1024&maxheight=4096&mode=pad&format=jpg"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 0, 231, 169; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
